@@ -5,7 +5,8 @@
 - MySQL 5.6 or later
 - This is updated to verify if the cehckin wnet well.
 - This is another change. I need to pull it.
-- This is another commit to check the pull commands.
+- This is another commit to check the pull commands.Pill actually fetch the changes and push it to local branch.
+- This time it is for the fetch commands. Fetch only fetches the changes from remote and doesnt change cnything in your local branch.
 # Technologies 
 - Spring MVC
 - Spring Security
