@@ -3,7 +3,7 @@
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
-
+- This is updated to verify if the cehckin wnet well.
 # Technologies 
 - Spring MVC
 - Spring Security
