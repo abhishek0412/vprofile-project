@@ -5,6 +5,7 @@
 - MySQL 5.6 or later
 - This is updated to verify if the cehckin wnet well.
 - This is another change. I need to pull it.
+- This is another commit to check the pull commands.
 # Technologies 
 - Spring MVC
 - Spring Security
